@@ -2,7 +2,7 @@
   "name": "eshtml",
   "displayName": "!es-html",
   "description": "snippet que genera estructuras html",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "MartinLuz",
   "engines": {
     "vscode": "^1.88.0"
