@@ -3,6 +3,7 @@
   "displayName": "!es-html",
   "description": "snippet que genera estructuras html",
   "version": "0.0.1",
+  "publisher": "MartinLuz",
   "engines": {
     "vscode": "^1.88.0"
   },
@@ -16,5 +17,6 @@
         "path": "./snippets/snippets.code-snippets"
       }
     ]
-  }
+  },
+  "license":"LICENSE.txt"
 }
