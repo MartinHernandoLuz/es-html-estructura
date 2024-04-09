@@ -23,5 +23,6 @@
     ]
   },
   "license":"LICENSE.txt",
-  "author": "Martin Luz (https://github.com/MartinHernandoLuz/)"
+  "author": "Martin Luz (https://github.com/MartinHernandoLuz/)",
+  "icon": "icono/icono.png"
 }
