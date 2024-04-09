@@ -3,7 +3,7 @@
 con el comando "!es" construirás una estructura HTML inicial en español con comentarios del
 proyecto y vínculos a .css y .js incluidos:
 
-```
+```html
 <!--
 Título: 
 Descripción: 
