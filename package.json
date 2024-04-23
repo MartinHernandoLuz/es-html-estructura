@@ -3,7 +3,7 @@
   "displayName": "!es-html",
   "description": "snippet que genera estructuras html",
   "version": "0.0.2",
-  "publisher": "MartinLuz",
+  "publisher": "MartinCasiDev",
   "engines": {
     "vscode": "^1.88.0"
   },
